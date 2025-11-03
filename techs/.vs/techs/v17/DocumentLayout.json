@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\",
+  "WorkspaceRootPath": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\user\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\szamar860\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|solutionrelative:techs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\user\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\projekth\u00E1zi.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|solutionrelative:techs\\projekth\u00E1zi.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\szamar860\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\improvements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|solutionrelative:techs\\improvements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\user\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\improvements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|solutionrelative:techs\\improvements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|c:\\users\\szamar860\\onedrive - bgszc pestszentl\u0151rinci technikum\\12.c\\asztali\\1projekt\\techs\\techs\\projekth\u00E1zi.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D8A9F0D-134B-4F70-9016-9CAF3DC5DF92}|techs\\techs.csproj|solutionrelative:techs\\projekth\u00E1zi.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProjektH\u00E1zi.csv",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\ProjektH\u00E1zi.csv",
+              "DocumentMoniker": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\ProjektH\u00E1zi.csv",
               "RelativeDocumentMoniker": "techs\\ProjektH\u00E1zi.csv",
-              "ToolTip": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\ProjektH\u00E1zi.csv",
+              "ToolTip": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\ProjektH\u00E1zi.csv",
               "RelativeToolTip": "techs\\ProjektH\u00E1zi.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAACfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2025-11-02T13:08:37.64Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "651ad412-225a-4e2a-9f55-c336b48aa288",
+        "Display": 1,
+        "X": 296,
+        "Y": 357,
+        "Width": 1547,
+        "Height": 576,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Improvements.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Improvements.cs",
+              "DocumentMoniker": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Improvements.cs",
               "RelativeDocumentMoniker": "techs\\Improvements.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Improvements.cs",
+              "ToolTip": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Improvements.cs",
               "RelativeToolTip": "techs\\Improvements.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Program.cs",
               "RelativeDocumentMoniker": "techs\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Program.cs",
+              "ToolTip": "C:\\Users\\szamar860\\OneDrive - BGSzC Pestszentl\u0151rinci Technikum\\12.C\\Asztali\\1Projekt\\techs\\techs\\Program.cs",
               "RelativeToolTip": "techs\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T13:06:38.232Z",
               "EditorCaption": ""

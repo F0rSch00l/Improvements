@@ -62,6 +62,22 @@ namespace techs
             Console.WriteLine($"Utolsó előugrás: \n Éve: {lastYear} \n Előreugrás: {improvementsList[indexOfLast].improvement} \n Előidező(k) neve: {string.Join(" / ", improvementsList[indexOfLast].names)}");
         }
 
+        static string writeToFile(string path, string searchedImprovement, List<Improvements> improvementsList)
+        {
+            StreamWriter sr = new StreamWriter(path);
+            foreach(Improvements improvement in improvementsList){
+                if (improvement.improvement.Contains(searchedImprovement))
+                {
+                    sr.WriteLine($"{improvement.improvement} - {string.Join(" / ", improvement.names)}");
+                    sr.Close();
+                    return $"{improvement.improvement} - {string.Join(" / ", improvement.names)}";
+                }
+            }
+            sr.Close();
+            return "Hiba";
+
+        }
+
         static void Main(string[] args)
         {
 
@@ -71,7 +87,10 @@ namespace techs
             Console.WriteLine($"1830 óta {countImprovements(improvements, 1830)} technológiai előugrást találtam.");
             Console.WriteLine($"Van(nak)-e olyan ember(ek), akik több technológiai előugrásért is felelősek? - {yesNo = (isSthereSomeone(improvements) ? "Igen" : yesNo)}");
             showLastImprovement(improvements);
+            writeToFile("text.txt", "gőz" ,improvements);
 
         }
+
+        
     }   
 }
