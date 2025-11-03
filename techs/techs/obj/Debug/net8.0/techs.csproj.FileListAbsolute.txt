@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\ProjektHázi.csv
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\techs.exe
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\techs.deps.json
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\techs.runtimeconfig.json
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\techs.dll
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\bin\Debug\net8.0\techs.pdb
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.AssemblyInfo.cs
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.dll
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\refint\techs.dll
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.pdb
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\techs.genruntimeconfig.cache
+C:\Users\User\OneDrive - BGSzC Pestszentlőrinci Technikum\12.C\Asztali\1Projekt\techs\techs\obj\Debug\net8.0\ref\techs.dll
